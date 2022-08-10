@@ -11,7 +11,7 @@
 >>刷题网站： https://codeforces.com/
  
  
-><img src="https:/support/dada.png#pic_center" width="50%" ></img>
+><img src="/support/dada.png#pic_center" width="50%" ></img>
 
 我的QQ交流群：955801491
 
