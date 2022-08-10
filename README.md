@@ -10,7 +10,9 @@
 > 
 >>刷题网站： https://codeforces.com/
  
->![](/support/dada.png)
+ 
+><img src="https:/support/dada.png#pic_center" width="50%" ></img>
+
 我的QQ交流群：955801491
 
 
